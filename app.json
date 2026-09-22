@@ -1,0 +1,18 @@
+{
+  "expo": {
+    "name": "Jogo de Vestir",
+    "slug": "jogo-de-vestir",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "extra": {
+      "eas": {
+        "projectId": "164f36f9-7b02-4d94-9cf2-cd0df5917d5f"
+      }
+    },
+    "android": {
+      "package": "com.maskzin666.jogodevestir"
+    }
+  }
+}
